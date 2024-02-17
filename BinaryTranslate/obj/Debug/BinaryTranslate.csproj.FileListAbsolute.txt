@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\bin\Debug\BinaryTranslate.exe.config
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\bin\Debug\BinaryTranslate.exe
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\bin\Debug\BinaryTranslate.pdb
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\obj\Debug\BinaryTranslate.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\obj\Debug\BinaryTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\obj\Debug\BinaryTranslate.exe
+C:\Users\Batın Eymen\source\repos\BinaryTranslate\BinaryTranslate\obj\Debug\BinaryTranslate.pdb
